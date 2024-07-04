@@ -8,7 +8,7 @@
 	<img alt="Static Badge" src=https://img.shields.io/badge/Front%20End-PyQt_Fluent_Widgets-pink>
 </div>
 
-![alt text](https://github.com/joana123123/-/blob/main/showphoto.png?raw=true)
+![alt text](https://github.com/joana123123/-/blob/main/show3.jpg?raw=true)
 
 ## 项目架构  :bookmark_tabs:
 ```text
