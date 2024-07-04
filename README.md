@@ -1,7 +1,7 @@
 <h1 align="center">AiProject</h1>
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
-<div style="display: flex; justify-content: center; align-items: center;">    
+<div align="center">    
     <img alt="Static Badge" src="https://img.shields.io/badge/language-python_3.11-blue" style="margin-right: 5px;">    
     <img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange" style="margin-right: 5px;">    
     <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">    
