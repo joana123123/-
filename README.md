@@ -12,7 +12,8 @@
 
 ![show_photo](https://github.com/joana123123/-/blob/main/show3.jpg?raw=true)
 
-##特别鸣谢
+## 特别鸣谢
+
 [![Open in Gitpod](https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true)](https://xinghuo.xfyun.cn/)
 
 ## 项目架构  :bookmark_tabs:
