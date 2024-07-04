@@ -459,7 +459,7 @@ CREATE TABLE user (
     </tr>  
 </table>
 
-##  使用剪影 :sparkler:
+##  使用剪影 :sparkler: :bookmark_tabs:
  <img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo.jpg?raw=true">
 <img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo2.jpg?raw=true">
 
