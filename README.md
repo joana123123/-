@@ -14,7 +14,9 @@
 
 <div align="center">  
 <h3 >特别鸣谢</h3>
-[![Open IFLYTEK](https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true)](https://xinghuo.xfyun.cn/)
+<a href="https://xinghuo.xfyun.cn/" style="text-decoration: none; display: inline-block; padding: 10px 20px; background-color:  white; color: white; border-radius: 5px;">  
+  <img src="https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">  
+</a>
 </div>
 
 
