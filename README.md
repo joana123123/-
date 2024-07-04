@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/joana123123/-/blob/main/logo2.jpg?raw=true" alt="预览"/>
+<img align="center" alt="logo" src="https://github.com/joana123123/-/blob/main/logo2.jpg?raw=true" />
 <h1 align="center">AiProject</h1>
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
@@ -10,7 +10,13 @@
     <img alt="Static Badge" src=https://img.shields.io/badge/manage%20interface-vue2-purple>
 </div>
 
-![alt text](https://github.com/joana123123/-/blob/main/show3.jpg?raw=true)
+![show_photo](https://github.com/joana123123/-/blob/main/show3.jpg?raw=true)
+
+<div align="center">  
+<h3 >特别鸣谢</h3>
+[![Open IFLYTEK](https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true)](https://xinghuo.xfyun.cn/)
+</div>
+
 
 ## 项目架构  :bookmark_tabs:
 ```text
