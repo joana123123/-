@@ -431,7 +431,7 @@ CREATE TABLE user (
 }
 ```
 
-## 本地数据库
+## 本地数据库 :computer:
 
 <table>  
     <tr>    
@@ -459,11 +459,11 @@ CREATE TABLE user (
     </tr>  
 </table>
 
-##  使用剪影
+##  使用剪影 :sparkler:
  <img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo.jpg?raw=true">
 <img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo2.jpg?raw=true">
 
-## Contributor
+## Contributor :bow:
 [@thetheorange](https://github.com/thetheorange)
 [@Misaka-xxw](https://github.com/Misaka-xxw)
 [@joana123123](https://github.com/joana123123)
