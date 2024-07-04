@@ -15,9 +15,11 @@
 <div align="center">    
 <a href="https://xinghuo.xfyun.cn/" style="text-decoration: none; display: inline-block; padding: 10px 20px; background-color: white; color: black; border-radius: 5px; font-weight: bold;">  
   <img src="https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true" alt="Logo" style="height: 20px; vertical-align: middle; margin-right: 5px;">  
-  讯飞星火  
 </a>
 </div>
+
+[![Open in Gitpod](https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true)](https://xinghuo.xfyun.cn/)
+
 
 ## 项目架构  :bookmark_tabs:
 ```text
