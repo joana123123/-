@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/joana123123/-/blob/main/logo.png?raw=true" alt="预览"/>
-<div>
+<img align="center" src="https://github.com/joana123123/-/blob/main/logo2.jpg?raw=true" alt="预览"/>
 <h1 align="center">AiProject</h1>
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
