@@ -2,9 +2,11 @@
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/language-python_3.11-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange">
-<img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">
+<div style="display: flex; align-items: center;">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/language-python_3.11-blue" style="margin-right: 5px;">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange" style="margin-right: 5px;">  
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">  
+</div>
 <img alt="Static Badge" src=https://img.shields.io/badge/Front%20End-PyQt_Fluent_Widgets-pink>
 
 ![alt text](https://github.com/joana123123/-/blob/main/main_window.jpg)
@@ -40,7 +42,7 @@
 │       ├──MessageBubble.py
 │       ├──RegisterWindow.py
 │       ├──SettingWindow.py
-│       └──UserInfoWindwo.py
+│       └──UserInfoWindow.py
 ├── .gitignore
 ├── BackgroundPhoto.jpg
 ├── Logging.py
