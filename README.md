@@ -1,16 +1,16 @@
 <h1 align="center">AiProject</h1>
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
-
-<div style="display: flex; align-items: center;">  
-    <img alt="Static Badge" src="https://img.shields.io/badge/language-python_3.11-blue" style="margin-right: 5px;">  
-    <img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange" style="margin-right: 5px;">  
-    <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">  
+<div style="display: flex; justify-content: center; align-items: center;">    
+    <img alt="Static Badge" src="https://img.shields.io/badge/language-python_3.11-blue" style="margin-right: 5px;">    
+    <img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange" style="margin-right: 5px;">    
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">    
+	<img alt="Static Badge" src=https://img.shields.io/badge/Front%20End-PyQt_Fluent_Widgets-pink>
 </div>
-<img alt="Static Badge" src=https://img.shields.io/badge/Front%20End-PyQt_Fluent_Widgets-pink>
-
-![alt text](https://github.com/joana123123/-/blob/main/main_window.jpg)
-![alt text](https://github.com/joana123123/-/blob/main/chat_window.jpg)
+<img src="https://github.com/joana123123/-/blob/main/main_window.jpg" alt="Main Window" style="display: inline-block; margin-right: 10px; vertical-align: middle;">  
+<img src="https://github.com/joana123123/-/blob/main/chat_window.jpg" alt="Chat Window" style="display: inline-block; vertical-align: middle;">
+`![alt text](https://github.com/joana123123/-/blob/main/main_window.jpg)
+![alt text](https://github.com/joana123123/-/blob/main/chat_window.jpg)`
 
 ## 项目架构  :bookmark_tabs:
 ```text
