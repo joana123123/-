@@ -1,8 +1,11 @@
-<img align="center" alt="logo" src="https://github.com/joana123123/-/blob/main/logo2.jpg?raw=true" />
+<div align="center">   
+<img  alt="logo" src="https://github.com/joana123123/-/blob/main/logo2.jpg?raw=true" />
+</div>
+
 <h1 align="center">AiProject</h1>
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
-<div align="center">    
+ <div align="center">   
     <img alt="Static Badge" src="https://img.shields.io/badge/language-python_3.11-blue" style="margin-right: 5px;">    
     <img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange" style="margin-right: 5px;">    
     <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">    
@@ -14,7 +17,7 @@
 
 ## 特别鸣谢
 
-[![Open in Gitpod](https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true)](https://xinghuo.xfyun.cn/)
+[![](https://github.com/joana123123/-/blob/main/xunfei_logo.png?raw=true)](https://xinghuo.xfyun.cn/)
 
 ## 项目架构  :bookmark_tabs:
 ```text
@@ -65,6 +68,13 @@
 - 下载并解压文件
 - 添加新面具
 - 选择直接开始对话或选择面具即可开始与Ai对话
+
+## 开发计划
+- [x] 设计主要的登录、注册页面和开启对话的主页面
+- [x] 部署后端大模型接口，支持部署的大语言模型：讯飞星火
+- [x] 部署本地数据库
+- [ ] 前后端联调
+- [ ] 后台管理界面
 
 ## 部署方式 :writing_hand:
 
@@ -448,3 +458,12 @@ CREATE TABLE user (
         <td>密码</td>  
     </tr>  
 </table>
+
+##  使用剪影
+
+
+
+## Contributor
+[@thetheorange](https://github.com/thetheorange)
+[@Misaka-xxw](https://github.com/Misaka-xxw)
+[@joana123123](https://github.com/joana123123)
