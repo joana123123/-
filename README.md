@@ -461,7 +461,7 @@ CREATE TABLE user (
 
 ##  使用剪影
  <img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo.jpg?raw=true">
-<img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo2.png?raw=true">
+<img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo2.jpg?raw=true">
 
 ## Contributor
 [@thetheorange](https://github.com/thetheorange)
