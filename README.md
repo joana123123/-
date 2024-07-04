@@ -1,3 +1,4 @@
+<img alt="Static Badge" src=https://github.com/joana123123/-/blob/main/logo.png?raw=true>
 <h1 align="center">AiProject</h1>
 
 <h3 align="center">一键部署你的智慧系统应用</h3>
