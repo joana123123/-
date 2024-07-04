@@ -7,10 +7,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">
 <img alt="Static Badge" src=https://img.shields.io/badge/Front%20End-PyQt_Fluent_Widgets-pink>
 
-![alt text](https://imgur.com/a/oKjYWuz)
+![alt text](https://github.com/joana123123/-/blob/main/main_window.jpg)
+![alt text](https://github.com/joana123123/-/blob/main/chat_window.jpg)
 
-
-## 项目架构  :joy:
+## 项目架构  :bookmark_tabs:
 ```text
 
 ├── Assets
@@ -48,6 +48,6 @@
 └── main.py
 
 ```
-## 接口说明  :joy:
+## 接口说明  :eyes:
 
 
