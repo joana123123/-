@@ -6,6 +6,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/flask-3.0.3-orange" style="margin-right: 5px;">    
     <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-2.0.30-green">    
 	<img alt="Static Badge" src=https://img.shields.io/badge/Front%20End-PyQt_Fluent_Widgets-pink>
+    <img alt="Static Badge src=https://img.shields.io/badge/manage%20interface-vue2-purple>
 </div>
 
 ![alt text](https://github.com/joana123123/-/blob/main/show3.jpg?raw=true)
