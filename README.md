@@ -488,20 +488,20 @@ CREATE TABLE user (
         <td style="text-align: center;" colspan="2">用户登录信息</td>     
     </tr>  
     <tr> 
-        <td>字段</td>   
-        <td>dialogue_name</td>  
-        <td>mask_name</td>  
+        <td style="text-align: center;">字段</td >   
+        <td  style="text-align: center;">dialogue_name</td>  
+        <td  style="text-align: center;">mask_name</td>  
         <!-- 表头2下的3列 -->  
-        <td>mask_id</td>  
-        <td>mask_name</td>  
-        <td>mask_describe</td>  
+        <td  style="text-align: center;">mask_id</td>  
+        <td  style="text-align: center;">mask_name</td>  
+        <td  style="text-align: center;">mask_describe</td>  
         <!-- 表头3下的6列 -->  
-        <td>send_id</td>  
-        <td>sender</td>  
-        <td>send_time</td>  
-        <td>send_type</td>  
-        <td>send_info</td>  
-        <td>send_succeed</td>  
+        <td  style="text-align: center;">send_id</td>  
+        <td  style="text-align: center;">sender</td>  
+        <td  style="text-align: center;">send_time</td>  
+        <td  style="text-align: center;">send_type</td>  
+        <td  style="text-align: center;">send_info</td>  
+        <td  style="text-align: center;">send_succeed</td>  
         <!-- 表头4下的2列 -->  
         <td>user_id</td>  
         <td>user_keyword</td>  
