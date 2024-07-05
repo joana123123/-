@@ -474,13 +474,19 @@ CREATE TABLE user (
 
 <table>  
     <tr>    
-        <th style="text-align: center;" colspan="1">表描述</th> 
-        <th style="text-align: center;" colspan="2">表</th> 
+        <th style="text-align: center;" colspan="1">表</th> 
         <th style="text-align: center;" colspan="2">dialogue</th>    
         <th style="text-align: center;" colspan="3">mask</th>    
         <th style="text-align: center;" colspan="6">message</th>    
         <th style="text-align: center;" colspan="2">user</th>     
     </tr>   
+    <tr>    
+        <td style="text-align: center;" colspan="1">表描述</td> 
+        <td style="text-align: center;" colspan="2">对话</td>    
+        <td style="text-align: center;" colspan="3">面具</td>    
+        <td style="text-align: center;" colspan="6">信息</td>    
+        <td style="text-align: center;" colspan="2">用户登录信息</td>     
+    </tr>  
     <tr> 
         <td>字段</td>   
         <td>dialogue_name</td>  
