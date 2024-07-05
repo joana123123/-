@@ -503,8 +503,8 @@ CREATE TABLE user (
         <td  style="text-align: center;">send_info</td>  
         <td  style="text-align: center;">send_succeed</td>  
         <!-- 表头4下的2列 -->  
-        <td>user_id</td>  
-        <td>user_keyword</td>  
+        <td style="text-align: center;">user_id</td>  
+        <td style="text-align: center;">user_keyword</td>  
     </tr>   
     <tr> 
         <td>字段描述</td>   
