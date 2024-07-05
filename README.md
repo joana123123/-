@@ -474,7 +474,7 @@ CREATE TABLE user (
 
 <table>  
     <tr>    
-        <th style="text-align: center;" colspan="1">表秒数</th> 
+        <th style="text-align: center;" colspan="1">表描述</th> 
         <th style="text-align: center;" colspan="2">表</th> 
         <th style="text-align: center;" colspan="2">dialogue</th>    
         <th style="text-align: center;" colspan="3">mask</th>    
@@ -558,9 +558,6 @@ CREATE TABLE user (
         <td></td>  
     </tr>  
 </table>
-
-##  前端说明
-
 
 
 ##  使用剪影 :sparkler: 
