@@ -430,24 +430,86 @@ CREATE TABLE user (
   "content": "xxx"
 }
 ```
+---
+
+#### 录音
+
+*请求地址* 
+
+    http://host:port/auth/login
+
+*请求方式* 
+
+    POST
+
+*请求头*
+
+    无要求
+
+*请求体* 格式为json
+```json
+{
+  "username": "xxx",
+  "password": "xxx"
+}
+```
+
+*响应体* 格式为json
+
+登录成功会返回用户的所有信息(包括用户id和uuid等信息) **登录失败则不返回**
+
+```json
+{
+  "code": 0,
+  "msg": "xxx",
+  "uuid": "xxx",
+  "tokens": 0,
+  "picTimes": 0
+}
+```
+
+---
 
 ## 本地数据库 :computer:
 
 <table>  
     <tr>    
+        <th style="text-align: center;" colspan="1">表秒数</th> 
+        <th style="text-align: center;" colspan="2">表</th> 
         <th style="text-align: center;" colspan="2">dialogue</th>    
         <th style="text-align: center;" colspan="3">mask</th>    
         <th style="text-align: center;" colspan="6">message</th>    
-        <th style="text-align: center;" colspan="2">user</th>    
-    </tr>    
-    <tr>  
+        <th style="text-align: center;" colspan="2">user</th>     
+    </tr>   
+    <tr> 
+        <td>字段</td>   
+        <td>dialogue_name</td>  
+        <td>mask_name</td>  
+        <!-- 表头2下的3列 -->  
+        <td>mask_id</td>  
+        <td>mask_name</td>  
+        <td>mask_describe</td>  
+        <!-- 表头3下的6列 -->  
+        <td>send_id</td>  
+        <td>sender</td>  
+        <td>send_time</td>  
+        <td>send_type</td>  
+        <td>send_info</td>  
+        <td>send_succeed</td>  
+        <!-- 表头4下的2列 -->  
+        <td>user_id</td>  
+        <td>user_keyword</td>  
+    </tr>   
+    <tr> 
+        <td>字段描述</td>   
         <td>对话名称</td>  
         <td>面具名称</td>  
         <!-- 表头2下的3列 -->  
         <td>面具编号</td>  
         <td>面具名称</td>  
-        <td>面具秒数</td>  
+        <td>面具描述</td>  
         <!-- 表头3下的6列 -->  
+        <td>发送者编号</td>  
         <td>发送者</td>  
         <td>信息发送时间</td>  
         <td>信息发送类型</td>  
@@ -457,7 +519,49 @@ CREATE TABLE user (
         <td>账号</td>  
         <td>密码</td>  
     </tr>  
+    <tr> 
+        <td>字段类型</td>   
+        <td>String(20)</td>  
+        <td>String(20)</td>  
+        <!-- 表头2下的3列 -->  
+        <td>Integer</td>  
+        <td>String(20)</td>  
+        <td>String(500)</td>  
+        <!-- 表头3下的6列 -->  
+        <td> </td>  
+        <td>Enum</td>  
+        <td>DateTime</td>  
+        <td>Enum</td>  
+        <td>String(2000)</td>  
+        <td>Boolean</td>  
+        <!-- 表头4下的2列 -->  
+        <td>String(50)</td>  
+        <td>String(50)</td>  
+    </tr>  
+    <tr> 
+        <td>说明</td>   
+        <td>主键</td>  
+        <td> </td>  
+        <!-- 表头2下的3列 -->  
+        <td>主键</td>  
+        <td></td>  
+        <td></td>  
+        <!-- 表头3下的6列 -->  
+        <td>主键 </td>  
+        <td>USER/GPT</td>  
+        <td></td>  
+        <td>TEXT/IMAGE/AUDIO</td>  
+        <td></td>  
+        <td></td>  
+        <!-- 表头4下的2列 -->  
+        <td></td>  
+        <td></td>  
+    </tr>  
 </table>
+
+##  前端说明
+
+
 
 ##  使用剪影 :sparkler: 
  <img alt="using_cut_photo" src="https://github.com/joana123123/-/blob/main/using_cut_photo.jpg?raw=true">
